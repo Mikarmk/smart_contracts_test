@@ -1,4 +1,5 @@
 # Smart Contracts Test
+# V1.0
 
 Welcome to the Smart Contracts Test repository! This project is designed to provide a comprehensive testing framework for smart contracts, ensuring their functionality and security.
 
